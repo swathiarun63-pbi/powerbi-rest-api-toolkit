@@ -31,4 +31,5 @@ python main.py
 - Use environment variables for all credentials
 
 ## Contact
-Reach out to Swathi for walkthrough
+LinkedIn: linkedin.com/in/swathi-ganesh-705929207
+Medium: swathiarun63.medium.com
